@@ -1,6 +1,6 @@
 {
-  "short_name": "SQcam",
-  "name": "SpacetimeQ Webcam",
+  "short_name": "SQClock",
+  "name": "SpacetimeQ World Clock",
   "icons": [
     {
       "src": "favicon.ico",
